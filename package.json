@@ -1,0 +1,15 @@
+{
+  "name": "intersections",
+  "version": "1.0.0",
+  "description": "",
+  "main": "intersections.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Sudia <dsudia@gmail.com> (http://www.roomforimproving.com)",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
